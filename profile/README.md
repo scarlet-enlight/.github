@@ -1,4 +1,5 @@
 Welcome to our student-run engineering workshop! We build, test, and share small, practical projects (primarily work on and maintain data science projects, web applications, and simple AI solutions)
+
 Core scope
 - Domain: data science, machine learning, AI systems, web and cloud services.  
 - Level: bachelor / project teams. Practical engineering tasks only.  
