@@ -5,9 +5,11 @@ Welcome! This is a collaborative workspace used by informatics and applied mathe
 ### Core Focus
 * **Data Engineering & Databases:** Designing schemas, optimizing queries, and managing relational databases (MySQL, SQLite).
 * **Machine Learning & Modeling:** Developing predictive systems, agent-based simulations (SIR models), and data analysis.
+* **Web Development & Full-Stack Apps:** Building responsive web applications and APIs using modern frameworks (including .NET, TypeScript, and JavaScript).
 * **DevOps & CI/CD Fundamentals:** Containerizing applications with Docker and building automation pipelines using Jenkins.
 
 ### Featured Team Projects
+* `retailrocket-recommendation-system` – An end-to-end e-commerce simulation and analytical pipeline featuring market basket analysis (Apriori), powered by ASP.NET Core, DuckDB, and FastAPI.
 * `china-tea-shop` – Hands-on experience with CI/CD deployment, Docker Compose, Flask, and SQLite.
 * `disease-spread-simulation` – Academic project focusing on mathematical modeling and scikit-learn predictions.
 * `star-wars-filter-app` – Desktop application integrated with a structured MySQL database.
